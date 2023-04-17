@@ -1,0 +1,32 @@
+[
+    {
+        "image": "images/joy.webp",
+        "name": "Joy",
+        "intensity": "High"
+    },
+    {
+        "image": "images/dune.webp",
+        "name": "Dune",
+        "intensity": "Low"
+    },
+    {
+        "image": "images/poison.webp",
+        "name": "Poison",
+        "intensity": "High"
+    },
+    {
+        "image": "images/gris_dior.webp",
+        "name": "Gris Dior",
+        "intensity": "Low"
+    },
+    {
+        "image": "images/miss_dior.webp",
+        "name": "Miss Dior",
+        "intensity": "High"
+    },
+    {
+        "image": "images/jadore.webp",
+        "name": "J'adore",
+        "intensity": "High"
+    }
+]
