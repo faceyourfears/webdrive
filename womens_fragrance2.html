@@ -13,7 +13,6 @@
     <link rel="stylesheet"
     href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
 </head>
-
 <body>
 
     <div id="page" class="site">
@@ -43,7 +42,19 @@
             </div>
         </div>
 
-    
+        <div class="filter">
+            <select name="intensity-filter" id="filter-dropdown">
+                <option selected disabled>Choose Intensity</option>
+                <option value="high">High</option>
+                <option value="low">Low</option>
+                <option value="mid">Normal</option>
+            </select>
+
+
+            <button class="filter_button" type="button">Filter</button>
+        </div>
+
+
         <div class="products"></div>
         <script src="fetch.js"></script>
         
