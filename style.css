@@ -5,6 +5,7 @@
         padding: 0 2em;
     }
 }
+
 *{
     padding: 0;
     margin: 0;
@@ -107,6 +108,21 @@ header{
     margin-left: 5px;
     font-size: 80px;
 }
+
+/* ----------FILTER----------- */
+.filter{
+    margin-top: 10px;
+    float:right;
+}
+
+#filter-dropdown{
+    float: right;
+}
+
+.filter_button{
+    float: right;
+}
+
 
 /* ----------SECTION---------- */
 section{
